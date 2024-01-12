@@ -1,1 +1,1 @@
-# Building a personal website with Hugo for MSDS 431
+# Building a personal website with Hugo for MSDS 431 to replace/supplement my resume
