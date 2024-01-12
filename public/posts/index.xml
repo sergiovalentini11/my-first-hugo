@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://example.org/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sergio Valentini</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Sergio Valentini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 20:25:36 -0600</lastBuildDate>
+    <atom:link rel="self" href="https://example.org/posts/index.xml" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 10 Jan 2024 20:25:36 -0600</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://example.org/posts/my-first-post/#introduction&#34;&gt;Introduction&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
