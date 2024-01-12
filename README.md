@@ -1,4 +1,1 @@
-# my-first-hugo
-# my-first-hugo
-
-
+# Building a personal website with Hugo for MSDS 431
