@@ -4,8 +4,6 @@ date = 2024-01-10T20:25:36-06:00
 draft = false
 +++
 
-## Introduction
+## Hello, MSDS 431!
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+I'm really enjoying the class so far - hope you are too!
