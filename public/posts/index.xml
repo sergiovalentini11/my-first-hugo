@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="https://sergiovalentini11.github.io/my-first-hugo/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sergio Valentini</title>
+    <title>Sergio Valentini</title>
     <link>https://sergiovalentini11.github.io/my-first-hugo/posts/</link>
-    <description>Recent content in Posts on Sergio Valentini</description>
+    <description>Recent content on Sergio Valentini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2024 20:25:36 -0600</lastBuildDate>
