@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://example.org/xml/base.min.xml" ?>
+<?xml-stylesheet type="text/xsl" href="https://sergiovalentini11.github.io/my-first-hugo/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sergio Valentini</title>
-    <link>https://example.org/categories/</link>
+    <link>https://sergiovalentini11.github.io/my-first-hugo/categories/</link>
     <description>Recent content on Sergio Valentini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link rel="self" href="https://example.org/categories/index.xml" type="application/rss+xml" />
+    <atom:link rel="self" href="https://sergiovalentini11.github.io/my-first-hugo/categories/index.xml" type="application/rss+xml" />
     <item>
       <title>Learning Go</title>
-      <link>https://example.org/posts/learning-go/</link>
+      <link>https://sergiovalentini11.github.io/my-first-hugo/posts/learning-go/</link>
       <pubDate>Thu, 11 Jan 2024 20:25:36 -0600</pubDate>
-      <guid>https://example.org/posts/learning-go/</guid>
+      <guid>https://sergiovalentini11.github.io/my-first-hugo/posts/learning-go/</guid>
       <description>&lt;h2 id=&#34;slowly-but-surely&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://example.org/posts/learning-go/#slowly-but-surely&#34;&gt;Slowly but surely&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://sergiovalentini11.github.io/my-first-hugo/my-first-hugo/posts/learning-go/#slowly-but-surely&#34;&gt;Slowly but surely&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m gradually beginning to get the hang of the git/github workflow and Go!&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://sergiovalentini11.github.io/my-first-hugo/posts/my-first-post/</link>
       <pubDate>Wed, 10 Jan 2024 20:25:36 -0600</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>https://sergiovalentini11.github.io/my-first-hugo/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;hello-msds-431&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://example.org/posts/my-first-post/#hello-msds-431&#34;&gt;Hello, MSDS 431!&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://sergiovalentini11.github.io/my-first-hugo/my-first-hugo/posts/my-first-post/#hello-msds-431&#34;&gt;Hello, MSDS 431!&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m really enjoying the class so far - hope you are too!&lt;/p&gt;
 </description>
