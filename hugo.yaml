@@ -38,12 +38,6 @@ params:
 
 menu:
   main:
-    - name: Resume
-      pageRef: /about
-      weight: 1
-    - name: Posts
-      pageRef: /post
-      weight: 2
     - name: Tags
       color: firebrick
       pageRef: /tags
