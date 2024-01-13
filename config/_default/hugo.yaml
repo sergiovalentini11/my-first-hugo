@@ -42,7 +42,7 @@ menu:
       pageRef: /about
       weight: 1
     - name: Posts
-      pageRef: /post
+      pageRef: /posts
       weight: 2
     - name: Hobbies
       pageRef: /tags

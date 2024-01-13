@@ -1,3 +1,6 @@
+![Selfie of Sergio](sergio-selfie.jpg "Selfie of Sergio")
+
+
 ## Professional experience
 
 ### Kellogg School of Management - Associate Systems Analyst (Nov '21 - current)
