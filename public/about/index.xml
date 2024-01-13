@@ -3,12 +3,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sergio Valentini</title>
-    <link>https://example.org/</link>
+    <link>https://example.org/about/</link>
     <description>Recent content on Sergio Valentini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2024 20:25:36 -0600</lastBuildDate>
-    <atom:link rel="self" href="https://example.org/index.xml" type="application/rss+xml" />
+    <atom:link rel="self" href="https://example.org/about/index.xml" type="application/rss+xml" />
     <item>
       <title>Learning Go</title>
       <link>https://example.org/posts/learning-go/</link>

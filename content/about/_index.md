@@ -29,8 +29,8 @@
 
 ## Education
 
-### Northwestern University - Evanston, IL (Anticipated Graduation - Spring '25)
+### Northwestern University - Evanston, IL (Graduating Spring '25)
 ***Master of Science in Data Science, specializing in Data Engineering***
 
-### Elmhurst College - Elmhurst, IL (Graduated 2014)
+### Elmhurst College - Elmhurst, IL (Graduated '14)
 ***Bachelor of Science in Business Administration: Logistics and Supply Chain Management***
