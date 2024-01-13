@@ -38,11 +38,11 @@ params:
 
 menu:
   main:
-    - name: Tags
+    - name: Resume
       color: firebrick
       pageRef: /tags
       weight: 3
-    - name: Categories
+    - name: Contact
       pageRef: /categories
       weight: 4
 

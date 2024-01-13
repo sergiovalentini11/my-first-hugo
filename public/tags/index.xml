@@ -13,11 +13,10 @@
       <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Wed, 10 Jan 2024 20:25:36 -0600</pubDate>
       <guid>https://example.org/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://example.org/posts/my-first-post/#introduction&#34;&gt;Introduction&lt;/a&gt;
+      <description>&lt;h2 id=&#34;hello-msds-431&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://example.org/posts/my-first-post/#hello-msds-431&#34;&gt;Hello, MSDS 431!&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m really enjoying the class so far - hope you are too!&lt;/p&gt;
 </description>
     </item>
   </channel>
