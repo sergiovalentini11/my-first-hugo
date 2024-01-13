@@ -12,4 +12,4 @@ You can also watch [a set we played at Subterranean in Chicago here](https://www
 
 ![Drive-Thru comedy sketch](schmoon-drive-thru-hands.png "Drive-Thru")
 
-I compose music scores for several local comedy sketch groups. Check out [Drive-Thru by the comedy group Schmoon](https://www.youtube.com/watch?v=OlOldcGLfUw), a short sketch about falling in love at the drive-thru window. 
+I've composed music scores for several local comedy sketch groups. Check out [Drive-Thru by the comedy group Schmoon](https://www.youtube.com/watch?v=OlOldcGLfUw), a short sketch about falling in love at the drive-thru window. 
