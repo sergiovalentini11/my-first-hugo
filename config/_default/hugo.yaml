@@ -38,11 +38,16 @@ params:
 
 menu:
   main:
-    - name: Resume
-      color: firebrick
+    - name: About
+      pageRef: /about
+      weight: 1
+    - name: Posts
+      pageRef: /post
+      weight: 2
+    - name: Tags
       pageRef: /tags
       weight: 3
-    - name: Contact
+    - name: Categories
       pageRef: /categories
       weight: 4
 
