@@ -45,6 +45,7 @@ menu:
       pageRef: /post
       weight: 2
     - name: Tags
+      color: firebrick
       pageRef: /tags
       weight: 3
     - name: Categories
