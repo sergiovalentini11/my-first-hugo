@@ -1,5 +1,3 @@
-# Resume
-
 ## Professional experience
 
 ### Kellogg School of Management - Associate Systems Analyst (Nov 2021 - current)
@@ -30,7 +28,13 @@
 ## Education
 
 ### Northwestern University - Evanston, IL (Graduating Spring '25)
-***Master of Science in Data Science, specializing in Data Engineering***
+***- Master of Science in Data Science, specializing in Data Engineering***
 
 ### Elmhurst College - Elmhurst, IL (Graduated '14)
-***Bachelor of Science in Business Administration: Logistics and Supply Chain Management***
+***- Bachelor of Science in Business Administration: Logistics and Supply Chain Management***
+
+
+## Github repositories
+My first Hugo: https://github.com/sergiovalentini11/my-first-hugo 
+
+Hello world: https://github.com/sergiovalentini11/hello-world

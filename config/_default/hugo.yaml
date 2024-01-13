@@ -38,16 +38,16 @@ params:
 
 menu:
   main:
-    - name: About
+    - name: Resume
       pageRef: /about
       weight: 1
     - name: Posts
       pageRef: /post
       weight: 2
-    - name: Tags
+    - name: Hobbies
       pageRef: /tags
       weight: 3
-    - name: Categories
+    - name: Contact
       pageRef: /categories
       weight: 4
 
