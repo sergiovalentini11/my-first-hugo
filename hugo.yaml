@@ -4,7 +4,7 @@ title: Sergio Valentini
 theme: hugo-flex
 
 params:
-  color: red           # Any color in CSS syntax
+  color: firebrick           # Any color in CSS syntax
   width: 42rem          # Any length in CSS syntax / leave empty to span page
   divider: \a0          # Any string in CSS syntax / leave empty for no divider
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
